@@ -1,0 +1,14 @@
+{
+    "name": "Test",
+    "short_name": "Test",
+    "icons": [{
+      "src": "taxi-cab.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#f9f9fa",
+    "theme_color": "#f9f9fa"
+  }
