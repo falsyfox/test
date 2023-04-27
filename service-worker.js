@@ -6,9 +6,9 @@ const PRECACHE_URLS = [
   './',
   'favicon.ico',
   'taxi-cab.png',
-  '/assets/index-1da8cd0c.css',
-  '/assets/index-a911f458.js',
-  '/assets/logo-277e0e97.svg'
+  'assets/index-1da8cd0c.css',
+  'assets/index-a911f458.js',
+  'assets/logo-277e0e97.svg'
 ];
 
 self.addEventListener('install', event => {
