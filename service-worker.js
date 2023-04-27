@@ -2,13 +2,13 @@ const PRECACHE = 'cache-v3';
 const RUNTIME = 'runtime-1';
 
 const PRECACHE_URLS = [
-  'index.html',
+  '/test/index.html',
   './',
-  'favicon.ico',
-  'taxi-cab.png',
-  'assets/index-1da8cd0c.css',
-  'assets/index-a911f458.js',
-  'assets/logo-277e0e97.svg'
+  '/test/favicon.ico',
+  '/test/taxi-cab.png',
+  '/test/assets/index-1da8cd0c.css',
+  '/test/assets/index-a911f458.js',
+  '/test/assets/logo-277e0e97.svg'
 ];
 
 self.addEventListener('install', event => {

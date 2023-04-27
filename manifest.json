@@ -7,7 +7,8 @@
         "type": "image/png"
       }
     ],
-    "start_url": "/",
+    "start_url": "/test/",
+    "scope": "/test",
     "display": "standalone",
     "background_color": "#f9f9fa",
     "theme_color": "#f9f9fa"
